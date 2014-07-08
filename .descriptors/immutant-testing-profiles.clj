@@ -1,0 +1,1 @@
+{:root "/home/moquist/projects/immutant-testing-profiles", :context-path "immutant-testing-profiles", :lein-profiles [:dev :test], :swank-port nil, :nrepl-port 0, :nrepl-port-file "target/test-repl-port"}
